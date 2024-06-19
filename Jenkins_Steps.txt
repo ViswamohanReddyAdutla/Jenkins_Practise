@@ -1,0 +1,13 @@
+1.After Installing jenkins war file from below url
+  https://www.jenkins.io/doc/book/installing/war-file/
+
+2.Place war file in this project folder and open up command prompt/terminal from in this location.
+
+3.Run Below command, use below
+    java -jar jenkins.war
+
+4.Then open browser and enter below path
+    https://localhost:8080
+    wait some time to loadup the jenkins home page
+
+5.Continue on with the post-installation setup wizard.
